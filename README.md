@@ -53,6 +53,10 @@
   <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.LvpJyueypK7jRUoH44BVBQHaBx?w=334&h=84&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="40" alt="matplotlib logo"  />
+    <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.HXQ2EXkyOvy89obmJ_0kFgHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="40" alt="seaborn logo"  />
 </div>
 
 ###
