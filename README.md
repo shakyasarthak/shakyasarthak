@@ -50,8 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/R.10e21878b1021b96feaa14a04f26446f?rik=Xp1IlKv%2fX0lyrA&riu=http%3a%2f%2fnumerique.ostralo.net%2fpython_matplotlib%2fimages%2flogo.png&ehk=fkBOcIRMTRhltdZ73wmJH8GTqNp3ZzcpKEonQUjxhE4%3d&risl=&pid=ImgRaw&r=0" height="40" alt="matplotlib logo"  />
