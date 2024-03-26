@@ -54,9 +54,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.LvpJyueypK7jRUoH44BVBQHaBx?w=334&h=84&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="40" alt="matplotlib logo"  />
+  <img src="https://th.bing.com/th/id/R.10e21878b1021b96feaa14a04f26446f?rik=Xp1IlKv%2fX0lyrA&riu=http%3a%2f%2fnumerique.ostralo.net%2fpython_matplotlib%2fimages%2flogo.png&ehk=fkBOcIRMTRhltdZ73wmJH8GTqNp3ZzcpKEonQUjxhE4%3d&risl=&pid=ImgRaw&r=0" height="40" alt="matplotlib logo"  />
     <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.HXQ2EXkyOvy89obmJ_0kFgHaHa?w=171&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="40" alt="seaborn logo"  />
+  <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" alt="seaborn logo"  />
 </div>
 
 ###
