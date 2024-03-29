@@ -55,8 +55,6 @@
   <img src="https://th.bing.com/th/id/R.10e21878b1021b96feaa14a04f26446f?rik=Xp1IlKv%2fX0lyrA&riu=http%3a%2f%2fnumerique.ostralo.net%2fpython_matplotlib%2fimages%2flogo.png&ehk=fkBOcIRMTRhltdZ73wmJH8GTqNp3ZzcpKEonQUjxhE4%3d&risl=&pid=ImgRaw&r=0" height="40" alt="matplotlib logo"  />
     <img width="8" />
   <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" height="40" alt="seaborn logo"  />
-  <img src="[https://th.bing.com/th/id/OIP.zVWEBrr7MVxJaRNk8T9wdwHaC_?w=350&h=141&c=7&r=0&o=5&dpr=1.3&pid=1.7](https://seeklogo.com/images/P/pandas-icon-logo-BE10401BF1-seeklogo.com.png)" height="40" alt="pandas logo"  />
-  <img width="12" />
-</div>
+ </div>
 
 ###
