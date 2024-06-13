@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Sarthak Shakya from Kathmandu, Nepal<br><br>🔭 I’m a student who is enthusiastic about machine learning and data driven computer technologies<br>📚 I'm currently learning the fundamentals of machine learning and data science<br>⚡ In my free time I code fun projects</p>
+<p align="left">I'm Sarthak Shakya from Kathmandu, Nepal<br><br>🔭 I’m a student who is enthusiastic about machine learning and data driven computer technologies<br>📚 I'm currently learning mobile application development using flutter <br>⚡ In my free time I code fun projects</p>
 
 ###
 
