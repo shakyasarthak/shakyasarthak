@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://tse2.mm.bing.net/th/id/OIP._qlbRaBWphN7Bg-Ny5dtsAHaDy?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" height="40" alt="scikit-learn logo"  />
+  <img src="https://www.clipartmax.com/png/small/220-2203637_scikit-learn.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://logolook.net/wp-content/uploads/2022/12/GitHub-Emblem.png" height="40" alt="github logo"  />
   <img width="12" />
