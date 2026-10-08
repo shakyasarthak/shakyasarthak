@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Sarthak Shakya from Kathmandu, Nepal<br><br>🔭 I’m a student who is enthusiastic about machine learning and data driven computer technologies<br>📚 I'm currently working on comparing ML models <br>⚡ In my free time I code fun projects</p>
+<p align="left">I'm Sarthak Shakya from Kathmandu, Nepal<br><br>🔭 I’m a student who is enthusiastic about privacy preserving machine learning and data driven computer technologies<br>📚 I'm currently working on implementing and understanding Differential Privacy <br>⚡ In my free time I code fun projects</p>
 
 ###
 
